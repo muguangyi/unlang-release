@@ -29,6 +29,14 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "DictStream/1.0.0.0": {
+        "runtime": {
+          "DictStream.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -53,6 +61,11 @@
       "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
     },
     "UNode/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DictStream/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
